@@ -10,12 +10,11 @@ A large telecommunications company experiences approximately 15% annual employee
 
 - **Employee_Attrition.ipynb**: Jupyter Notebook for data analysis and attrition prediction.
 - **Employee_Attrition.pdf**: A comprehensive report detailing the analysis, findings, and recommendations.
-- **README.md**: This file, providing an overview of the project and instructions for replicating the analysis.
 - **data_dictionary.xlsx**: Data dictionary that describes all the features used in the datasets.
-- **employee_survey_data.csv**: Data containing employee satisfaction scores, work-life balance, and job satisfaction.
 - **general_data.csv**: General employee data including demographics, job role, and performance metrics.
-- **in_time.csv**: Employee check-in times.
+- **employee_survey_data.csv**: Data containing employee satisfaction scores, work-life balance, and job satisfaction.
 - **manager_survey_data.csv**: Manager ratings of employee job performance and involvement.
+- **in_time.csv**: Employee check-in times.
 - **out_time.csv**: Employee check-out times.
 
 ## Instructions to Replicate Results
